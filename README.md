@@ -23,6 +23,9 @@ Foram criados os seguntes passo a passo desse woorkflow.
 6- Se ele encontrar o arquivo, ele Lista os objetos, salva no bucket, faz a validação cria uma cópia e disponibiliza essa cópia no buckete por último utiliza o Lambda e encerra o processo.
 
 
+Seguem em anexo as imagens desse Workflow na pasta images e o arquivo json.
+
+
 Aqui está o arquivo em json que foi gerado desse workflow:
 
 ```{
